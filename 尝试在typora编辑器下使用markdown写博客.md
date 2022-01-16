@@ -11,7 +11,7 @@
 
 该部分git commit于第二版，因为第一版已然成功。
 
-![image-20220116164833359](C:\Users\57213\AppData\Roaming\Typora\typora-user-images\image-20220116164833359.png)
+![imag1](imag1.png)
 
 结论：今后可以随心所欲用typora写想记录的东西，然后利用vscode上传到github云端保存即可。
 
